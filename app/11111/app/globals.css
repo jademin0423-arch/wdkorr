@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-gray-800 antialiased;
+  }
+  
+  h1 {
+    @apply text-3xl md:text-4xl font-bold text-gray-900 mb-6;
+  }
+  
+  h2 {
+    @apply text-2xl md:text-3xl font-semibold text-gray-800 mt-8 mb-4;
+  }
+  
+  h3 {
+    @apply text-xl md:text-2xl font-semibold text-gray-800 mt-6 mb-3;
+  }
+  
+  p {
+    @apply mb-4 leading-relaxed;
+  }
+  
+  a {
+    @apply text-wedding-pink hover:underline focus:outline-none focus:ring-2 focus:ring-wedding-pink focus:ring-offset-2 rounded;
+  }
+}
+
+@layer utilities {
+  .container-custom {
+    @apply max-w-6xl mx-auto px-4;
+  }
+}
+
+/* 모바일 상단 고정 CTA 배너로 인한 컨텐츠 가림 방지 */
+@media (max-width: 768px) {
+  body {
+    padding-top: 128px;
+  }
+}
+
