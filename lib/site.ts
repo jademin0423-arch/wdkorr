@@ -3,7 +3,7 @@ export const SITE = {
   name: "2026 웨딩박람회 일정 총정리",
   domain: "https://wdkor.co.kr/",
   logoText: "웨딩박람회 일정",
-  ctaPrimary: { "label": "무료 초대권 신청", "href": "https://ad.cpaad.co.kr/wedunited01drc/jade888" },
+  ctaPrimary: { "label": "무료 초대권 신청", "href": "https://replyalba.com/pt/wc4ZSDV18m" },
   ctaSecondary: { "label": "가까운 박람회 일정 보기", "href": "/wedding-fair-schedule" },
 
   editorial: {
