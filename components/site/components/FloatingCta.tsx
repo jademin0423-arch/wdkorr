@@ -47,7 +47,7 @@ export function FloatingCta() {
           100% { transform: scale(1); }
         }
       ` }} />
-      <Link href="https://ad.cpaad.co.kr/wedunited01/jade888" className="floating-cta">
+      <Link href="https://replyalba.com/pt/wc4ZSDV18m" className="floating-cta">
         🎁 무료 초대권 신청하기
       </Link>
     </>
