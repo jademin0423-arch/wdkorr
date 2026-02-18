@@ -10,7 +10,7 @@ export const SITE = {
     authorName: "웨딩박람회 일정 편집팀",
     reviewerName: "결혼준비 정보 검토팀",
     credentials: "웨딩박람회·결혼준비 정보 콘텐츠 운영",
-    lastUpdatedDefault: "2025-12-31"
+    lastUpdatedDefault: "2025-02-18"
   },
 
   contact: {
