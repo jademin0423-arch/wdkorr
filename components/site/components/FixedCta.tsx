@@ -85,7 +85,7 @@ export function FixedCta() {
           <span className="wf-cta-text">
             가장 가까운 웨딩박람회 초대권 무료 신청 🎁
           </span>
-          <Link href="https://ad.cpaad.co.kr/wedunited01/jade888" className="wf-cta-btn">
+          <Link href="https://replyalba.com/pt/wc4ZSDV18m" className="wf-cta-btn">
             지금 신청하기
           </Link>
         </div>
