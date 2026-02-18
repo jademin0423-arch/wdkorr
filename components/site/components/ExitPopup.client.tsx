@@ -151,7 +151,7 @@ export function ExitPopup() {
             예비부부님, 나가기 전에 <b>웨딩박람회 무료 초대권</b>을 받아보세요.<br />
             혜택은 선착순으로 제공됩니다.
           </div>
-          <Link href="https://ad.cpaad.co.kr/wedunited01/jade888" className="exit-popup-btn">
+          <Link href="https://replyalba.com/pt/wc4ZSDV18m" className="exit-popup-btn">
             무료 초대권 받기
           </Link>
           <div className="exit-popup-close" onClick={handleClose}>
